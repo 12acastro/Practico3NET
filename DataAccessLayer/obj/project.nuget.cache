@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oIQboRfbj50zAhl6SD6TWjrS9woaAlNyvZ/F8w34ngbqKsR+UuO/gBtbP2CfxJJPW0nSq08pOD+TdiKolbPHRw==",
+  "dgSpecHash": "UnzAQdcpaLjtVkAaOZ0286hzLZxKXvltfd0QdM0Lju/s39L+j2PwBqBzEfyK6fRPIAPmcpU/JtdxKgJHCACTjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSI\\Desktop\\Practico 3\\practico1-Practico2\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\MSI\\Documents\\Practico3NET\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

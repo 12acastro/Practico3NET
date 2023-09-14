@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.EFModels
 {
-    internal class Vehiculos
+    public class Vehiculos
     {
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         [Key]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oN1EnJJ2bUcIFWK2VwbWGNW9iRfR7fuuxw+Hg3+eKQgIVqIA6qDVoELt3ci+ctTI1R1co7AduT5Arqh/g583uA==",
+  "dgSpecHash": "yYpoz5FehkURddeGQ+Z1zaEHAZ9aHv9zz5EvIpt1Pl6HWe4uZAtg5ImnZQUV1TvpYf/frlGIVrtESP4VEJiNfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSI\\Desktop\\Practico 3\\practico1-Practico2\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\MSI\\Documents\\Practico3NET\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
